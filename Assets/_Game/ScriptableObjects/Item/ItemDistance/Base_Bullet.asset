@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1d4e29eab797c1d4c84b51647a777e2a, type: 3}
+  m_Name: Base_Bullet
+  m_EditorClassIdentifier: 
+  itemName: Base
+  description: 
+  type: {fileID: 11400000, guid: 51cf3803d4371594182fb7713db12824, type: 2}
+  effects: []
+  bullet: {fileID: 2562525606059854537, guid: 34227ca0bfc34fb419801e72b2cfdeb4, type: 3}
+  timeForAttack: 0.2
+  ammo: 5
+  timeToReload: 1
+  damage: 1

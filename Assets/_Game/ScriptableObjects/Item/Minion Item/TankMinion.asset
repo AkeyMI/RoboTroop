@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 553910abdc1d76049b2c2ab82f33b1c9, type: 3}
+  m_Name: TankMinion
+  m_EditorClassIdentifier: 
+  minionData: {fileID: 11400000, guid: d691be570b6d14d44bde298c873a13f1, type: 2}

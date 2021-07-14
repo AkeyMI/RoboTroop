@@ -1,0 +1,151 @@
+fileFormatVersion: 2
+guid: b93196d3bd30b5043bd7ada7aa5c8a9b
+ModelImporter:
+  serializedVersion: 19300
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prueba_Base_low_MeshMat
+    second: {fileID: 2100000, guid: 7351b966babeee24796412c1e9b6fd8b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prueba_Ca_on_low_MeshMat
+    second: {fileID: 2100000, guid: dae64550f18aa5840b68c17585fbcca2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prueba_Ca_on_low_Prueba_Turbinas_low_Robot_Shoot_LPpSphere22_Prueba_Turbinas_low_polySurface1Mat
+    second: {fileID: 2100000, guid: f0b05d422cc39eb4a85ea792e90bf77a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prueba_Ca_on_low_Prueba_Turbinas_low_Robot_Shoot_LPpSphere22_Prueba_Turbinas_low_polySurface2Mat
+    second: {fileID: 2100000, guid: d74d4d15f4abe2e429156d75defcd86e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prueba_Ca_on_low_pCube2_Prueba_Turbinas_low_HologramaMat
+    second: {fileID: 2100000, guid: b54425935b958304eaf7415a00528a37, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prueba_Capsula_low_MeshMat
+    second: {fileID: 2100000, guid: b6695a9e2461a83458017ce04523e8f4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prueba_TapaInferior_low_MeshMat
+    second: {fileID: 2100000, guid: 84ea5b0af334ad841b1c66f3efc82bd5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prueba_TapaSuperior_low_MeshMat
+    second: {fileID: 2100000, guid: b090d7d79139b8d46815e5bc82bb825e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prueba_Turbinas_low_Holograma_Prueba_Ca_on_low_pCube1Mat
+    second: {fileID: 2100000, guid: 67f981d3308dc8a4e8fc41cd7ab9311f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prueba_Turbinas_low_Holograma_Prueba_Turbinas_low_luz_HologramaMat
+    second: {fileID: 2100000, guid: 2cf32a0df9fb959408f8d40a238b9e0e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prueba_Turbinas_low_polySurface3_Prueba_Ca_on_low_Prueba_Turbinas_low_Robot_Shoot_LPpSphere22Mat
+    second: {fileID: 2100000, guid: 3d329dc268498874083cfb2c864d4993, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
